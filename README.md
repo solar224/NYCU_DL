@@ -10,7 +10,7 @@
 ## Table of Contents
 
 - [Overview](#課程簡介-overview)
-- [Instructors & TAs](#授課教師與助教-instructors--tas)
+- [Instructors](#授課教師與助教-instructors--tas)
 - [Prerequisites](#先修課程-prerequisites)
 - [Grading](#評分方式-grading)
 - [Schedule](#時程與主題-schedule)
@@ -29,21 +29,11 @@ This course balances **theory** and **practice**, covering:
 
 ---
 
-## Instructors & TAs
+## Instructors
 **Instructors**  
 - 彭文孝（Peng）｜wpeng@cs.nctu.edu.tw  
 - 陳永昇（Chen）｜yschen@nycu.edu.tw  
 - 謝秉均（Hsieh）｜pinghsieh@cs.nycu.edu.tw  
-
-**Teaching Assistants** (alphabetical order)  
-- 楊賀弼｜mrrrimge32.cs13@nycu.edu.tw  
-- 林于翔｜kingslayer.cs13@nycu.edu.tw  
-- 陳敬中｜jingzhongchen.cs13@nycu.edu.tw  
-- 何銘哲｜ethan920508.cs13@nycu.edu.tw  
-- 劉子齊｜jonathan.tcliu.en11@nycu.edu.tw  
-- 洪偉｜hwei1048576.cs08@nycu.edu.tw  
-- 溫柏萱｜alison.cs13@nycu.edu.tw  
-
 ---
 
 ## Grading

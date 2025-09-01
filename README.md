@@ -3,7 +3,7 @@
 
 [![Course](https://img.shields.io/badge/Course-Deep%20Learning-blue)]()
 [![Semester](https://img.shields.io/badge/Semester-Summer%202025-informational)]()
-[![Language](https://img.shields.io/badge/Language-中文%20%2F%20English-lightgrey)]()
+[![Language](https://img.shields.io/badge/Language-English-lightgrey)]()
 
 ---
 
